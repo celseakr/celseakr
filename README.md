@@ -12,8 +12,8 @@
 
 </div>
 
-> ⟡ &nbsp; I’m currently working on RAG pipelines and exploring LLM safety systems ♡  
-> ⟡ &nbsp; I’m interested in learning DevOps, CI/CD pipelines, and cloud infrastructure ☁️
+> ⟡ &nbsp; 🔭 I’m currently working on RAG pipelines and exploring LLM safety systems ♡  
+> ⟡ &nbsp; 🌱 I’m interested in learning DevOps, CI/CD pipelines, and cloud infrastructure ☁️
 
 <div align="center">
 
