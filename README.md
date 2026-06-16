@@ -4,7 +4,7 @@
 
 ⋆˚࿔ ⋆౨ৎ˚⟡.• ࿔˚⋆
 
-*⋆˚ learning, building, repeating ⋆˚✧*
+*⋆˚ building little things with code and curiosity ⋆˚✧*
 
 </div>
 
