@@ -1,4 +1,11 @@
-## Hi there 👋
+˗ˏˋ ♡ Hey There ♡ ˎˊ˗  
+⋆˚࿔ ⋆౨ৎ˚⟡.• ࿔˚⋆  
+
+---
+
+# Hi, i'm chelsea 👩‍💻
+-  🔭 I’m currently working on RAG pipelines and exploring LLM safety systems
+- 🌱 I’m interested in learning DevOps, CI/CD pipelines, and cloud infrastructure ☁️
 
 <!--
 **celseakr/celseakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
