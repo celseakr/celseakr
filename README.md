@@ -4,7 +4,7 @@
 
 ⋆˚࿔ ⋆౨ৎ˚⟡.• ࿔˚⋆
 
-*⋆˚ building little things with code and curiosity ⋆˚✧*
+*⋆˚ Hi, I'm Chelsea⋆˚✧*
 
 </div>
 
